@@ -28,3 +28,6 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 See [Getting Started with Vue - An Overview and Walkthrough Tutorial]https://www.taniarascia.com/getting-started-with-vue/)
+
+### online
+https://blissful-newton-791b35.netlify.com/
